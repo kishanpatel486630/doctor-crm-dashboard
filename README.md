@@ -94,30 +94,6 @@ A comprehensive, full-stack healthcare management system built with React, Node.
 
 ---
 
-## 🖼️ Screenshots
-
-<div align="center">
-
-### Dashboard
-
-![Dashboard](screenshots/dashboard.png)
-
-### Patient Management
-
-![Patient Management](screenshots/patients.png)
-
-### Appointment Scheduler
-
-![Appointments](screenshots/appointments.png)
-
-### Digital Prescription
-
-![Prescription](screenshots/prescription.png)
-
-</div>
-
----
-
 ## 🛠️ Tech Stack
 
 ### Frontend
@@ -587,3 +563,4 @@ Give a ⭐️ if this project helped you!
 [Report Bug](https://github.com/kishanpatel486630/doctor-crm-dashboard/issues) · [Request Feature](https://github.com/kishanpatel486630/doctor-crm-dashboard/issues)
 
 </div>
+
